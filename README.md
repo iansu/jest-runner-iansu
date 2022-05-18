@@ -4,14 +4,14 @@ This is a patched version of [`jest-runner`](https://github.com/facebook/jest/tr
 
 ## Usage
 
-Install the runner with npm or Yarn. Make sure you install the version that corresponds to your Jest version. For example, if you are using Jest 27:
+Install the runner with npm or Yarn. Make sure you install the version that corresponds to your Jest version. For example, if you are using Jest 28:
 
 ```sh
-npm i -D jest-runner-iansu@27
+npm i -D jest-runner-iansu@28
 ```
 
 ```sh
-yarn add --dev jest-runner-iansu@27
+yarn add --dev jest-runner-iansu@28
 ```
 
 Add this line to your Jest config:
