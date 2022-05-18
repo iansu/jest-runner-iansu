@@ -1,7 +1,7 @@
 {
   "name": "jest-runner-iansu",
   "version": "1.0.0",
-  "description": "A patched version of the default jest-runner",
+  "description": "A patched version of the default jest-runner that prevents out of memory issues",
   "author": "Ian Sutherland <ian@iansutherland.ca>",
   "license": "MIT"
 }
